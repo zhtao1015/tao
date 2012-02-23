@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zhtao1015.github.com/tao/atom.xml" rel="self"/>
   <link href="http://zhtao1015.github.com/tao/"/>
-  <updated>2012-02-24T03:36:26+08:00</updated>
+  <updated>2012-02-24T03:56:48+08:00</updated>
   <id>http://zhtao1015.github.com/tao/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://zhtao1015.github.com/tao/blog/2012/02/24/test/"/>
+    <updated>2012-02-24T03:51:00+08:00</updated>
+    <id>http://zhtao1015.github.com/tao/blog/2012/02/24/test</id>
+    <content type="html"><![CDATA[<p>怎么配置不成功呢</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
